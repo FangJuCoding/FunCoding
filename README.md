@@ -1,8 +1,8 @@
-## [FunCoding](https://github.com/FangJuCoding/FunCoding.git)
+## [FunCoding](https://www.funcoding.cn)
 > 除了代码，还有诗和远方。
 
 * 收录优秀的技术博文
-* 收录优秀的开开源框架
+* 收录优秀的开源框架
 * 个人技术资源分享
 
 持续更新，欢迎star
